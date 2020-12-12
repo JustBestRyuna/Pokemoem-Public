@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: 'Pokemoem Font';
+}
+
+@font-face {
+  font-family: 'Pokemoem Font';
+  src: url('../public/fonts/NanumSquareRegular.ttf');
+}
+
+@font-face {
+  font-family: 'Pokemoem Font';
+  src: url('../public/fonts/OpenSans-Regular.ttf');
+  unicode-range: U+0020-00FF;
+}
+
+.tui-editor-contents {
+  font-size: 16px;
+  font-family: 'Pokemoem Font';
+}
